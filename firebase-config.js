@@ -1,11 +1,9 @@
-// Paste the values from Firebase here (setup guide, step 5).
-// These values are safe to publish. Your data is protected by the
-// security rules in firestore.rules, not by keeping this secret.
+// Firebase settings for my apps
 export const firebaseConfig = {
-  apiKey: "PASTE-YOUR-API-KEY",
-  authDomain: "PASTE-YOUR-PROJECT.firebaseapp.com",
-  projectId: "PASTE-YOUR-PROJECT",
-  storageBucket: "PASTE-YOUR-PROJECT.appspot.com",
-  messagingSenderId: "PASTE",
-  appId: "PASTE"
+  apiKey: "AIzaSyBfzesncv1obWXjUDtZx2joMZBnCHfkYrA",
+  authDomain: "my-apps-1d25f.firebaseapp.com",
+  projectId: "my-apps-1d25f",
+  storageBucket: "my-apps-1d25f.firebasestorage.app",
+  messagingSenderId: "117673938453",
+  appId: "1:117673938453:web:8a0d78ff574e4bedc7c81c"
 };
